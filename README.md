@@ -1,4 +1,7 @@
-# Implementation-of-filter
+# Ex.no:5 Implementation-of-filter
+### Developed By   : VINCY JOVITHA V
+### Register Number: 212223230242
+
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -22,8 +25,6 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program:
-### Developed By   : VINCY JOVITHA V
-### Register Number: 212223230242
 
 ### 1. Smoothing Filters
 
